@@ -1,5 +1,7 @@
 # 😊 About Me:
-Hi, I'm Mariana! I'm a Data Science student with a background in business, particularly growth marketing.<br><br>
+Hi, I'm Mariana! I'm a Data Science student with a background in business.
+
+<br><br>
 
 
 ## 💻 Socials:
